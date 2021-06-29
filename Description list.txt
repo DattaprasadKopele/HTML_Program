@@ -1,0 +1,27 @@
+<html>
+
+<head>
+     <title>Description List</title>
+
+</head>
+
+<body>
+
+<dl>
+
+<dt>1.National anthem</dt>
+<dd>Jan Gan Man Adhinayak Jay hai.....</dd>
+
+<dt>2.National song</dt>
+<dd>Jan Gan Man Adhinayak Jay hai.....</dd>
+
+<dt>3.India Anthem</dt>
+<dd>Jan Gan Man Adhinayak Jay hai.....</dd>
+
+
+</dl>
+
+
+</body>
+
+</html>

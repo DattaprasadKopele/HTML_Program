@@ -1,0 +1,50 @@
+<html>
+
+<head>
+     <title>Kabbadi Team</title>
+
+</head>
+
+<body>
+
+<ul>
+
+<li>Anup Kumar</li>
+<li>Ajay Thakur</li>
+<li>Rushikant Devadika</li>
+<li>Shabir Bappu</li>
+<li>Deepak Hudda</li>
+<li>Kailas D</li>
+<li>Sachin A</li>
+
+</ul>
+
+<ul type="circle">
+
+<li>Anup Kumar</li>
+<li>Ajay Thakur</li>
+<li>Rushikant Devadika</li>
+<li>Shabir Bappu</li>
+<li>Deepak Hudda</li>
+<li>Kailas D</li>
+<li>Sachin A</li>
+
+</ul>
+
+<ul type="square">
+
+<li>Anup Kumar</li>
+<li>Ajay Thakur</li>
+<li>Rushikant Devadika</li>
+<li>Shabir Bappu</li>
+<li>Deepak Hudda</li>
+<li>Kailas D</li>
+<li>Sachin A</li>
+
+</ul>
+
+
+
+</body>
+
+</html>
